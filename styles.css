@@ -2,16 +2,8 @@
 	Background-color: #f8f8f8;
 	box-sizing:border-box;
 }
-#container{
-	width:100vw;
-	height:100vh;
-	background-color:lightgrey;
-	border-top:5px solid black;
-	
-}
 .book-library{
     text-align:center;
-	padding:20px;
 }
 #block{
 	height:20px;
@@ -25,7 +17,9 @@
 .book{
 	text-align:left;
 	line-height:5px;
-	margin-left:10px;
+	margin-top:10px;
+	margin-bottom:20px;
+	margin-left:20px;
 	margin-right:10px;
 }
 .author{
